@@ -1,0 +1,22 @@
+.red {
+  background: red;
+  height: 33%;
+  width: 100%;
+  text-align: center;
+  font-size: 100px;
+}
+.blue {
+  background: blue;
+  height: 33%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+.red {
+  background: red;
+  height: 33%;
+  width: 100%;
+  text-align: center;
+}
